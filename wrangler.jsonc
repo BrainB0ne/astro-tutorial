@@ -1,6 +1,9 @@
 {
   "name": "astro-tutorial",
   "compatibility_date": "2025-12-20", // Update to the day you deploy
+  "send_metrics": false,
+  "workers_dev": true,
+  "preview_urls": true,
   "assets": {
     "directory": "./dist"
   }
